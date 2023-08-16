@@ -2,8 +2,55 @@
 <h3 align="center">A passionate Multi Cloud Developer (AWS, AZURE, GCP)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokuldas-dev&label=Profile%20views&color=0e75b6&style=flat" alt="gokuldas-dev" /> </p>
+# Multi-Cloud Certified Developer Portfolio
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokuldas-dev" alt="gokuldas-dev" /></a> </p>
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+Welcome to my GitHub repository showcasing my multi-cloud certifications and projects as a certified developer.
+
+## About Me
+
+I am a passionate multi-cloud certified developer with expertise in building and deploying applications on various cloud platforms. My skills include:
+
+- AWS Certified Developer - Associate
+- Azure Developer Associate
+- Google Cloud Professional Developer
+
+## Projects
+
+### Project 1: Cloud-Native Web Application
+
+Description: A serverless web application built using AWS Lambda, Azure Functions, and Google Cloud Functions. This project demonstrates my ability to design, develop, and deploy cloud-native applications.
+
+GitHub Repository: [Project 1 Repository](https://github.com/yourusername/project1)
+
+### Project 2: Multi-Cloud DevOps Pipeline
+
+Description: A CI/CD pipeline that automates the deployment of applications on AWS, Azure, and Google Cloud. This project showcases my skills in infrastructure as code and DevOps practices.
+
+GitHub Repository: [Project 2 Repository](https://github.com/yourusername/project2)
+
+## Certifications
+
+- AWS Certified Developer - Associate
+  - [Verify Credential](https://www.yourverificationlink.com/awsdev)
+- Azure Developer Associate
+  - [Verify Credential](https://www.yourverificationlink.com/azuredev)
+- Google Cloud Professional Developer
+  - [Verify Credential](https://www.yourverificationlink.com/gcpdev)
+
+## Contact Me
+
+Feel free to reach out to me if you're interested in collaborating on projects, discussing cloud technologies, or networking:
+
+- Email: your.email@example.com
+- LinkedIn: [Your Name](https://www.linkedin.com/in/yourusername)
+- Twitter: [@yourusername](https://twitter.com/yourusername)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 - 💬 Ask me about **AWS,AZURE**
 
