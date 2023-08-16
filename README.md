@@ -32,7 +32,7 @@ GitHub Repository: [Project 1 Repository](https://github.com/yourusername/projec
 - AWS Certified Developer - Associate
   - [Verify Credential](https://www.yourverificationlink.com/awsdev)
 - AWS Certified Cloud Practitioner
-  - 
+  - [Verify Credential](https://www.yourverificationlink.com/awsdev)
 - Azure Administrative Associate
   - [Verify Credential](https://www.yourverificationlink.com/azuredev)
 - Google Cloud Platform (Architecting with Google Compute Engine)
