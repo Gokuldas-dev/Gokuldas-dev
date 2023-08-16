@@ -34,7 +34,7 @@ GitHub Repository: [Project 1 Repository](https://github.com/yourusername/projec
 - AWS Certified Cloud Practitioner
   - [Verify Credential](https://www.credly.com/badges/3180ccd9-aafd-41fe-a82a-1e5fd3efd341/public_url)
 - Microsoft Azure Administrative Associate
-  - [Verify Credential](https://www.yourverificationlink.com/azuredev)
+  - [Verify Credential](https://www.credly.com/badges/ce87ac5e-c69a-4fe1-8fc0-2232a6af60fa/public_url)
 - Google Cloud Platform (Architecting with Google Compute Engine)
   - [Verify Credential](https://www.yourverificationlink.com/gcpdev)
 
