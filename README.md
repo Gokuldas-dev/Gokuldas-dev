@@ -14,7 +14,7 @@ I am a passionate multi-cloud certified developer with expertise in building and
 
 - AWS Certified Developer - Associate
 - AWS Certified Cloud Practitioner
-- Azure Administrative Associate
+- Microsoft Azure Administrative Associate
 - Google Cloud Platform (Architecting with Google Compute Engine)
 
 ## Projects
@@ -30,10 +30,10 @@ GitHub Repository: [Project 1 Repository](https://github.com/yourusername/projec
 ## Certifications
 
 - AWS Certified Developer - Associate
-  - [Verify Credential](https://www.yourverificationlink.com/awsdev)
+  - [Verify Credential](https://www.credly.com/badges/a65bf9c7-fef3-4c91-9b61-022f22bc9037/public_url)
 - AWS Certified Cloud Practitioner
   - [Verify Credential](https://www.credly.com/badges/3180ccd9-aafd-41fe-a82a-1e5fd3efd341/public_url)
-- Azure Administrative Associate
+- Microsoft Azure Administrative Associate
   - [Verify Credential](https://www.yourverificationlink.com/azuredev)
 - Google Cloud Platform (Architecting with Google Compute Engine)
   - [Verify Credential](https://www.yourverificationlink.com/gcpdev)
