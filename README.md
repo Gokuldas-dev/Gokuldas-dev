@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gokuldas Shenoy K</h1>
-<h3 align="center">A passionate Multi Cloud Developer (AWS, AZURE, GCP)</h3>
+<h3 align="center">A Passionate Multi Cloud Developer (AWS, AZURE, GCP)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokuldas-dev&label=Profile%20views&color=0e75b6&style=flat" alt="gokuldas-dev" /> </p>
 # Multi-Cloud Certified Developer Portfolio
@@ -43,7 +43,7 @@ GitHub Repository: [Project 1 Repository](https://github.com/yourusername/projec
 Feel free to reach out to me if you're interested in collaborating on projects, discussing cloud technologies, or networking:
 
 - Email: gokuldasshenoy30@gmail.com
-- LinkedIn: Gokuldas Shenoy K(https://www.linkedin.com/in/gokuldas-shenoy-k-0b167220b/)
+- LinkedIn: Gokuldas Shenoy K[Linkedin - Gokuldas Shenoy K](https://www.linkedin.com/in/gokuldas-shenoy-k-0b167220b/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
