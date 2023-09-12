@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gokuldas Shenoy K</h1>
-<h3 align="center">A Passionate Multi Cloud Developer (AWS, AZURE, GCP)</h3>
+<h3 align="center">A Passionate AWS Cloud Developer (AWS, AZURE, GCP)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokuldas-dev&label=Profile%20views&color=0e75b6&style=flat" alt="gokuldas-dev" /> </p>
 # Multi-Cloud Certified Developer Portfolio
@@ -19,11 +19,15 @@ I am a passionate multi-cloud certified developer with expertise in building and
 
 ## Projects
 
-### Project 1: Cloud-Native Web Application
+### Project 1: DEPLOYING WORDPRESS WEBSITE IN AWS
 
-Description: A serverless web application built using AWS Lambda, Azure Functions, and Google Cloud Functions. This project demonstrates my ability to design, develop, and deploy cloud-native applications.
+Description: Deployed and hosted a highly-available WordPressapplication using EC2.RDS,Route 53,ASG and VP
 
 GitHub Repository: [Project 1 Repository](https://github.com/yourusername/project1)
+
+
+### Project 2: HOLOGRAPHIC VIDEO CALLING DEVICE
+Description: IOT Device using Raspberry pie 4 and someacrylic glass aligned. Camera microphone for input and used Incomingvideo will be processed by the app in mobile usingAugmented Reality
 
 
 
