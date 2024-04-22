@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gokuldas Shenoy K</h1>
-<h3 align="center">A Passionate AWS Cloud Developer (AWS, AZURE, GCP)</h3>
+<h3 align="center">A Passionate Cloud Developer (AWS, AZURE, GCP)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokuldas-dev&label=Profile%20views&color=0e75b6&style=flat" alt="gokuldas-dev" /> </p>
 # Multi-Cloud Certified Developer Portfolio
@@ -39,6 +39,8 @@ Description: IOT Device using Raspberry pie 4 and someacrylic glass aligned. Cam
   - [Verify Credential](https://www.credly.com/badges/3180ccd9-aafd-41fe-a82a-1e5fd3efd341/public_url)
 - Microsoft Azure Administrative Associate
   - [Verify Credential](https://www.credly.com/badges/ce87ac5e-c69a-4fe1-8fc0-2232a6af60fa/public_url)
+- Microsoft Azure Solution Architect Expert
+  - [Verify Credential](https://www.credly.com/badges/ce87ac5e-c69a-4fe1-8fc0-2232a6af60fa/public_url)
 - Google Cloud Platform (Architecting with Google Compute Engine)
   - [Verify Credential](https://www.yourverificationlink.com/gcpdev)
 
@@ -67,6 +69,6 @@ Feel free to reach out to me if you're interested in collaborating on projects, 
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/gokuldas-dev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gokuldas-dev" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/gokuldas-dev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="20" width="110" alt="gokuldas-dev" /></a></p><br><br>
 
 
