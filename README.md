@@ -72,3 +72,13 @@ Feel free to reach out to me if you're interested in collaborating on projects, 
 <p><a href="https://www.buymeacoffee.com/gokuldas-dev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="20" width="110" alt="gokuldas-dev" /></a></p><br><br>
 
 
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
+
