@@ -87,7 +87,7 @@ I'm a multi-cloud certified **Cloud Operations & DevOps Engineer**, currently wo
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokuldas-dev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=gokuldas-dev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="70%" />
 </div>
 
 <br>
